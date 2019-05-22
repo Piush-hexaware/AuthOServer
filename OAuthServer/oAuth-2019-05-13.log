@@ -1,0 +1,2878 @@
+{ message: false,
+  level: 'info',
+  timestamp: '2019-05-13T06:13:20.334Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.041Z' }
+{ message: 
+   { grant_type: 'authorization_code',
+     code: 'wKQOi14FLXKb520U',
+     redirect_uri: 'https://oauth-redirect.googleusercontent.com/r/oeg-es-chatbot',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.041Z' }
+{ message: 'resource tokens generating',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.042Z' }
+{ message: 'inside create user session',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.043Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.312Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.312Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.313Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.384Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegESBotLinux|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: [ 'OegEsBot', 'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728040,
+     exp: 1557814440,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email Leave.SelfService offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.385Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.386Z' }
+{ message: 'inside generateTokens',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.386Z' }
+{ message: '\nrefreshToken',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.386Z' }
+{ message: '\nrefreshToken',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.387Z' }
+{ message: '\nrefreshToken',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.388Z' }
+{ message: '\nrefresh token null {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA","expires_in":86400,"token_type":"Bearer"}',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.750Z' }
+{ message: '\nstatus code at refreshToken 200',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.750Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.756Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728040,
+     exp: 1557814440,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.757Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.757Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.757Z' }
+{ message: '\nrefresh token null {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA","expires_in":86400,"token_type":"Bearer"}',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.758Z' }
+{ message: '\nstatus code at refreshToken 200',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.758Z' }
+{ message: '\nrefresh token null {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA","expires_in":86400,"token_type":"Bearer"}',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.835Z' }
+{ message: '\nstatus code at refreshToken 200',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.835Z' }
+{ message: 
+   { ps: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.835Z' }
+{ message: 
+   { at: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.835Z' }
+{ message: 
+   { itsm: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.835Z' }
+{ message: 'inside redis createUserSession',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.836Z' }
+{ message: 
+   { displayName: undefined,
+     empid: 'KU0136',
+     mail: undefined,
+     user_name: undefined,
+     tokens: 
+      { ps: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA',
+        at: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA',
+        itsm: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA' } },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.836Z' }
+{ message: '\n redis port 5000 ',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.836Z' }
+{ message: 'userSession',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.836Z' }
+{ message: 
+   { displayName: undefined,
+     empid: 'KU0136',
+     mail: undefined,
+     user_name: undefined,
+     tokens: 
+      { ps: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA',
+        at: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA',
+        itsm: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyODA0MCwiZXhwIjoxNTU3ODE0NDQwLCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.MyDFSOI7OcLD7RuHzMAPadqIzLVFUUf3T2WK8VBPE72kyfNYiIU9d21mH3Fi5aJuQg3Pbb2g0aK3c3BoX1aBDYtRqESs16M2b6Bobn5iK-yQrk3-5aAW9np0cjXomKWcQnyDjvlIME4Ar2Wu3P0ru7ZFxbT-ME7WLSGu275ukC7gxKor9aRk-9V-tO041p0j_u_vX3O5NTiiUMHLR8pNqXGsAB9mqelMTyXgFlE6-M24ap_bvZbVuzd7u-b-00Z2Vkko7iPNnNVOEV8O7HxYWIPovk_AvtCHUUxg8hBXSlB3qPgb_ucCey3oFA_vW2lqB2nPUwIKwA4oJ9iTgZ7NHA' } },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.836Z' }
+{ message: 'final response',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.837Z' }
+{ message: true,
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.837Z' }
+{ message: 'token response to google',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.837Z' }
+{ message: 
+   { code: 200,
+     resp: 
+      { access_token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOlsiT2VnRXNCb3QiLCJodHRwczovL29lZ2VzYm90LmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE1NTc3MjgwNDAsImV4cCI6MTU1NzgxNDQ0MCwiYXpwIjoiMmVCcVd0bFM5OUswNjdNUFg0OXluN0tJOFQ5NGhvTV8iLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIExlYXZlLlNlbGZTZXJ2aWNlIG9mZmxpbmVfYWNjZXNzIn0.RbGT7NeBpD2B-OyTiMlwa7GzvFxhYO7l7cS3mkAWN8BLxraLH2toWEusZYl5h8IMi0bDHjrAb4VbQjDFuN9oPPWsCMeb9UMkOuju2mlg57FKTgtAyE2VvWTdKDBHmPzctHVWbQHAErMNRW1t5uDnoBu5-HDh9K6rLW9Z_B_6WOgH66dneyk9uwJod7g90cEgRTnqHDY7EqXpGpIdpwKNugkF_tPNAt71a8Fj4uj8HMUvqERN2vr4EZApAnva11eDB5oaQQZERcikODmnwfMoNPROjLDq2RIv1g2sB0h2H0NqrTRDWdz2XrqrLf7hWflz45UXkrJ9ilzL9l4jVtJ8hA',
+        refresh_token: 'PBwOUdBwOwft4-cJchGDdgTP2gn2gOoDkSVMfZY7oFdIl',
+        id_token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJnaXZlbl9uYW1lIjoiTWljaGFlbCIsImZhbWlseV9uYW1lIjoiS25pZ2h0Iiwibmlja25hbWUiOiJNS05JR0hUIiwibmFtZSI6Ik1pY2hhZWwgS25pZ2h0IiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzIwZTZiMmJmZWJiNWNkNTQ2MTJiYjhjNWE0NzI1MDAwP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGbWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDUtMTNUMDY6MTM6NTAuMjIxWiIsImVtYWlsIjoiS1UwMTM2QG9yYWNsZXNhbXBsZS5jb20iLCJpc3MiOiJodHRwczovL29lZ2VzYm90LmF1dGgwLmNvbS8iLCJzdWIiOiJhZHxPZWdFU0JvdExpbnV4fGUwNWE5Mjg0LWRiZjEtNDU3Yi05OTZlLTBjODVmZGYwOWU2ZCIsImF1ZCI6IjJlQnFXdGxTOTlLMDY3TVBYNDl5bjdLSThUOTRob01fIiwiaWF0IjoxNTU3NzI4MDQwLCJleHAiOjE1NTc3NjQwNDB9.EbDitxV-gwzsYUP4d3oRQ6bGKXhQKvKxNeNyEBheRumaUl5_TkpRXxD5xpFQzlxXxBePAYaQf0xVk1e02Go9bWIopYD1iUwTao6UvI5VPXt1igf2JGpmk8QA9yCURVsCCTtJZYKAusmgOtF0MVqVPVvz2ke-0nJyY_EX_XkK0ZTnFvxSUpK2fMDtD06TRDaMOvj9PzfglJoteKtG9QAx9TcNhuqcO8bLgJUaxO4dl5rge7fCaXI8d4xCvRwdGPVwqPksuqHpVyJqwyLqN-S6aXIO-97rVThhWpSalz4PtC4st6JT9cdTPHCmMCz5h2gYjTq2jRxWI0fmhvCAfHggpg',
+        scope: 'openid profile email Leave.SelfService offline_access',
+        expires_in: 86400,
+        token_type: 'Bearer' } },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:00.837Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:13.842Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:13.842Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:13.843Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:14.289Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728054,
+     exp: 1557814454,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:14.290Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:14.290Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:14.290Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:24.863Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:24.863Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:24.864Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:25.216Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728065,
+     exp: 1557814465,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:25.217Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:25.217Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:25.217Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:30.919Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:30.919Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:30.920Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:31.273Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728071,
+     exp: 1557814471,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:31.274Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:31.274Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:31.274Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:42.019Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:42.019Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:42.020Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:42.462Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728082,
+     exp: 1557814482,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:42.463Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:42.463Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:42.463Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:52.828Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:52.828Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:52.829Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:53.121Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728093,
+     exp: 1557814493,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:14:53.122Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:53.122Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:14:53.122Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:09.169Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:09.169Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:09.170Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:09.604Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728109,
+     exp: 1557814509,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:09.607Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:09.607Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:09.607Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:20.593Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:20.593Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:20.594Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:20.971Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728120,
+     exp: 1557814520,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:20.972Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:20.972Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:20.972Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:31.336Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:31.336Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:31.337Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:31.697Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728131,
+     exp: 1557814531,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:31.698Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:31.698Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:31.698Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:39.218Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:39.218Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:39.219Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:39.588Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728139,
+     exp: 1557814539,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:39.589Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:39.589Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:39.589Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:48.505Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:48.505Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:48.505Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:48.874Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728148,
+     exp: 1557814548,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:48.875Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:48.875Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:48.875Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:50.324Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:50.324Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:50.325Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:50.674Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728150,
+     exp: 1557814550,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:50.676Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:50.676Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:50.676Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:59.441Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:59.441Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:59.441Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:59.795Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728159,
+     exp: 1557814559,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:15:59.796Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:59.796Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:15:59.796Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:01.670Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:01.674Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:01.675Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:02.121Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728162,
+     exp: 1557814562,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:02.123Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:02.123Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:02.123Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:10.563Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:10.564Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:10.564Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:11.000Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728170,
+     exp: 1557814570,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:11.001Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:11.001Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:11.001Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:16.608Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:16.608Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:16.608Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:16.944Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728176,
+     exp: 1557814576,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:16.945Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:16.945Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:16.946Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:27.127Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:27.127Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:27.128Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:27.394Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728187,
+     exp: 1557814587,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:27.396Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:27.396Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:27.396Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:38.359Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:38.359Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:38.360Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:38.722Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728198,
+     exp: 1557814598,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:38.723Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:38.723Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:38.723Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:46.318Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:46.318Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:46.319Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:46.595Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728206,
+     exp: 1557814606,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:46.595Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:46.596Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:46.596Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:57.019Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:57.019Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:57.020Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:57.280Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728217,
+     exp: 1557814617,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:16:57.280Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:57.281Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:16:57.281Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:08.267Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:17:08.268Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:08.268Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:08.554Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728228,
+     exp: 1557814628,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:17:08.555Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:08.555Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:08.556Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:57.038Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:17:57.038Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:57.038Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:57.478Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728277,
+     exp: 1557814677,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:17:57.479Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:57.479Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:17:57.479Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:02.171Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:02.173Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:02.174Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:02.622Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728282,
+     exp: 1557814682,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:02.623Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:02.623Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:02.623Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:08.591Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:08.592Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:08.592Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:08.955Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728288,
+     exp: 1557814688,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:08.956Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:08.957Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:08.957Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:13.502Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:13.503Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:13.503Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:13.950Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728293,
+     exp: 1557814693,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:13.951Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:13.951Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:13.951Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:20.230Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:20.230Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:20.231Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:20.492Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728300,
+     exp: 1557814700,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:20.493Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:20.493Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:20.493Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:24.666Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:24.666Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:24.667Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:25.046Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728305,
+     exp: 1557814705,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:25.047Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:25.047Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:25.047Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:27.145Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:27.145Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:27.145Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:27.490Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728307,
+     exp: 1557814707,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:27.491Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:27.491Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:27.491Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:38.414Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:38.414Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:38.415Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:38.857Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728318,
+     exp: 1557814718,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:38.858Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:38.858Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:38.858Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:49.526Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:49.526Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:49.527Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:49.781Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728329,
+     exp: 1557814729,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:18:49.782Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:49.782Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:18:49.782Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:11.292Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:21:11.292Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:11.292Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:11.720Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728471,
+     exp: 1557814871,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:21:11.720Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:11.721Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:11.721Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:22.263Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:21:22.263Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:22.263Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:22.636Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728482,
+     exp: 1557814882,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:21:22.637Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:22.637Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:22.638Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:34.666Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:21:34.669Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:34.670Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:35.019Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557728494,
+     exp: 1557814894,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:21:35.021Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:35.021Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:21:35.021Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:13.673Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:33:13.673Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:13.674Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:14.099Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729194,
+     exp: 1557815594,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:33:14.099Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:14.100Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:14.100Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:25.467Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:33:25.467Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:25.467Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:25.945Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729205,
+     exp: 1557815605,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:33:25.947Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:25.947Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:25.947Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:36.916Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:33:36.917Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:36.917Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:37.179Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729217,
+     exp: 1557815617,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:33:37.180Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:37.180Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:33:37.180Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:34:51.552Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:34:51.553Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:34:51.553Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:34:52.278Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729292,
+     exp: 1557815692,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:34:52.279Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:34:52.279Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:34:52.279Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:03.484Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:35:03.484Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:03.485Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:03.846Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729303,
+     exp: 1557815703,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:35:03.847Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:03.847Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:03.848Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:13.930Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:35:13.931Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:13.931Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:14.187Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729314,
+     exp: 1557815714,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:35:14.188Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:14.188Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:14.188Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:58.328Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:35:58.328Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:58.329Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:58.682Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729358,
+     exp: 1557815758,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:35:58.683Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:58.683Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:35:58.684Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:10.268Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:10.268Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:10.268Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:10.609Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729370,
+     exp: 1557815770,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:10.610Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:10.610Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:10.610Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:11.957Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:11.957Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:11.958Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:12.402Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729372,
+     exp: 1557815772,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:12.404Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:12.404Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:12.404Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:21.730Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:21.730Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:21.732Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:22.003Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729381,
+     exp: 1557815781,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:22.004Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:22.004Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:22.004Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:23.802Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:23.803Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:23.803Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:24.157Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729384,
+     exp: 1557815784,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:24.158Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:24.158Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:24.158Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:35.434Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: '9qgcGDFAxxy6LGXQ29oD6Fbx6sQhbHban-VZ5DRosjh_b',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:35.434Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:35.435Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:35.881Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729395,
+     exp: 1557815795,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:36:35.881Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:35.882Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:36:35.882Z' }
+{ message: false,
+  level: 'info',
+  timestamp: '2019-05-13T06:38:32.106Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:56.673Z' }
+{ message: 
+   { grant_type: 'authorization_code',
+     code: '3Ehi1gNgij643OAT',
+     redirect_uri: 'https://oauth-redirect.googleusercontent.com/r/oeg-es-chatbot',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:38:56.674Z' }
+{ message: 'resource tokens generating',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:56.674Z' }
+{ message: 'inside create user session',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:56.675Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:56.998Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegESBotLinux|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: [ 'OegEsBot', 'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729536,
+     exp: 1557815936,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email Leave.SelfService offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:38:56.999Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.000Z' }
+{ message: 'inside generateTokens',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.000Z' }
+{ message: '\nrefreshToken',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.000Z' }
+{ message: '\nrefreshToken',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.001Z' }
+{ message: '\nrefreshToken',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.001Z' }
+{ message: '\nrefresh token null {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA","expires_in":86400,"token_type":"Bearer"}',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.283Z' }
+{ message: '\nstatus code at refreshToken 200',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.283Z' }
+{ message: '\nrefresh token null {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA","expires_in":86400,"token_type":"Bearer"}',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.365Z' }
+{ message: '\nstatus code at refreshToken 200',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.365Z' }
+{ message: '\nrefresh token null {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA","expires_in":86400,"token_type":"Bearer"}',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.419Z' }
+{ message: '\nstatus code at refreshToken 200',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.419Z' }
+{ message: 
+   { ps: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA' },
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.419Z' }
+{ message: 
+   { at: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA' },
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.419Z' }
+{ message: 
+   { itsm: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA' },
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.419Z' }
+{ message: 'inside redis createUserSession',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.420Z' }
+{ message: 
+   { displayName: undefined,
+     empid: 'KU0136',
+     mail: undefined,
+     user_name: undefined,
+     tokens: 
+      { ps: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA',
+        at: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA',
+        itsm: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA' } },
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.420Z' }
+{ message: '\n redis port 5000 ',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.420Z' }
+{ message: 'userSession',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.420Z' }
+{ message: 
+   { displayName: undefined,
+     empid: 'KU0136',
+     mail: undefined,
+     user_name: undefined,
+     tokens: 
+      { ps: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA',
+        at: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA',
+        itsm: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzcyOTUzNywiZXhwIjoxNTU3ODE1OTM3LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.R6IyYuFEhykVyg74gf-VBWOO4S-nd3gfafd_-nVv-Fv22Tq0T9J8-SoDkqk57rhFP96bu1UYiVHy3FgqzE7NOadVoT5rY5K-q6mjAL0hlGiXU-eHOibnebzZxNblngK-AgAVOD1Q2Qw393FtOm1_mufTbGRr64VzY2etBSQBUPwJrB9tQRJmHPtqqjy9PSpBOLoMx2pRA-sIHFDRKdLflWW4I7UMzuqL7hGVRnoCuoQb7jnaiGQyEkPjCy-0YdrbdEWdXIomaKHADUFWQw9rgUgnDE50eNPTZaH7IKj6uHTzdWQ_UFolQBzfx8L2n8Xhigm7CEKLvl-PgNS7VxeEpA' } },
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.420Z' }
+{ message: 'final response',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.421Z' }
+{ message: true,
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.421Z' }
+{ message: 'token response to google',
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.421Z' }
+{ message: 
+   { code: 200,
+     resp: 
+      { access_token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOlsiT2VnRXNCb3QiLCJodHRwczovL29lZ2VzYm90LmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE1NTc3Mjk1MzYsImV4cCI6MTU1NzgxNTkzNiwiYXpwIjoiMmVCcVd0bFM5OUswNjdNUFg0OXluN0tJOFQ5NGhvTV8iLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIExlYXZlLlNlbGZTZXJ2aWNlIG9mZmxpbmVfYWNjZXNzIn0.KLuF3F-KUxgIDFyzYZsuVskRoKCgKmE1E6A6R2YO684jb24AeFuB-5xZDnfc3jMLft5bBHQ98rfmFAecihPDzFSkqy1feE4q67dwtFBiiMNPpzq08p5RsXUcWwAi9HFKgp6ptpN3Bqgp2rgghWLZquNVIIF-FhoXhi6q43oOx5JdnqoL1i6FnNjl42j86oVhMNdLZFQnPqB998i0LgMiN60f8iCFqAW6bnFlcLf9ATvj8w0z_KNsB12DEO_0mqZPim4aSyhU9Ic4MmbwkXLUtg5nT-EYMmD3bavpYW3ujKbqVmGpJzZKH_vfTGcw_yxBJU6gOHaBSLTbsWh2G_rXag',
+        refresh_token: '-g-1KD5ixYEGynCG-GKhEGH_kUBHQFl85D7udjhmEHVeb',
+        id_token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJnaXZlbl9uYW1lIjoiTWljaGFlbCIsImZhbWlseV9uYW1lIjoiS25pZ2h0Iiwibmlja25hbWUiOiJNS05JR0hUIiwibmFtZSI6Ik1pY2hhZWwgS25pZ2h0IiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzIwZTZiMmJmZWJiNWNkNTQ2MTJiYjhjNWE0NzI1MDAwP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGbWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDUtMTNUMDY6Mzg6NTAuMjgwWiIsImVtYWlsIjoiS1UwMTM2QG9yYWNsZXNhbXBsZS5jb20iLCJpc3MiOiJodHRwczovL29lZ2VzYm90LmF1dGgwLmNvbS8iLCJzdWIiOiJhZHxPZWdFU0JvdExpbnV4fGUwNWE5Mjg0LWRiZjEtNDU3Yi05OTZlLTBjODVmZGYwOWU2ZCIsImF1ZCI6IjJlQnFXdGxTOTlLMDY3TVBYNDl5bjdLSThUOTRob01fIiwiaWF0IjoxNTU3NzI5NTM2LCJleHAiOjE1NTc3NjU1MzZ9.gRdgJqSIO--Ik2jbtG_td5LcSGZsUEA9VaTdCMyak6Hl6txDjebQ5KF5KzPlYd_SdRw_gFdSS5CL4ObrIFqtbOolwwT2mvQ9MFmTn6_Me8u5MWtHUFZww_qaFsrsgxk8Ckqhjdgdn9-LCql0lzY8XTjcSBXDYisK_VAkObkrsPAPquWCGmyRnz2xZvN1hUiBlHMkJCSKXlT4zVKJ949jtcEOzDyPKSCck5VtdeeYVLpshqzAPzztoOSyvOizRUy3zJUaEUoGqH5qTD_KFbS8HfpOrQr5l9Vdsq1zOZ8YHhqrX0NvNCCc2jjde5JA0qzrbT8qZ4Pull3M3biFj94G6g',
+        scope: 'openid profile email Leave.SelfService offline_access',
+        expires_in: 86400,
+        token_type: 'Bearer' } },
+  level: 'info',
+  timestamp: '2019-05-13T06:38:57.421Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:09.541Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:09.541Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:09.542Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:09.925Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729609,
+     exp: 1557816009,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:09.925Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:09.926Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:09.926Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:20.601Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:20.601Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:20.601Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:20.976Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729620,
+     exp: 1557816020,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:20.977Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:20.977Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:20.977Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:31.966Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:31.966Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:31.966Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:32.318Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729632,
+     exp: 1557816032,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:32.319Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:32.319Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:32.320Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:44.655Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:44.655Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:44.655Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:44.985Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729644,
+     exp: 1557816044,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:44.986Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:44.987Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:44.987Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:55.722Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:55.723Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:55.723Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:56.080Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729656,
+     exp: 1557816056,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:40:56.081Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:56.081Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:40:56.081Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:41:07.082Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:41:07.082Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:41:07.083Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:41:07.443Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729667,
+     exp: 1557816067,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:41:07.445Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:41:07.445Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:41:07.445Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:19.085Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:42:19.085Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:19.086Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:19.519Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729739,
+     exp: 1557816139,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:42:19.521Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:19.521Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:19.521Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:29.734Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:42:29.734Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:29.735Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:30.099Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729750,
+     exp: 1557816150,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:42:30.100Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:30.100Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:30.101Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:41.448Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:42:41.448Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:41.449Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:41.897Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729761,
+     exp: 1557816161,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:42:41.897Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:41.898Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:42:41.898Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:29.859Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:44:29.859Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:29.859Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:30.323Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729870,
+     exp: 1557816270,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:44:30.324Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:30.324Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:30.324Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:43.245Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:44:43.246Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:43.246Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:43.516Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729883,
+     exp: 1557816283,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:44:43.516Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:43.517Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:43.517Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:54.667Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:44:54.667Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:54.668Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:55.097Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729895,
+     exp: 1557816295,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:44:55.099Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:55.099Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:44:55.099Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:45.639Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:45:45.639Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:45.640Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:46.075Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729946,
+     exp: 1557816346,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:45:46.076Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:46.076Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:46.076Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:56.632Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:45:56.632Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:56.632Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:56.998Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729956,
+     exp: 1557816356,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:45:56.999Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:56.999Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:45:56.999Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:46:08.052Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:46:08.052Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:46:08.053Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:46:08.501Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557729968,
+     exp: 1557816368,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:46:08.501Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:46:08.502Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:46:08.502Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:20.171Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:57:20.171Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:20.172Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:20.613Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557730640,
+     exp: 1557817040,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:57:20.614Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:20.614Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:20.615Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:31.798Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:57:31.799Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:31.799Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:32.164Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557730652,
+     exp: 1557817052,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:57:32.165Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:32.165Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:32.165Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:44.013Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T06:57:44.013Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:44.013Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:44.379Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557730664,
+     exp: 1557817064,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T06:57:44.380Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:44.380Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T06:57:44.380Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:13.100Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:13.100Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:13.101Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:13.469Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557730813,
+     exp: 1557817213,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:13.470Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:13.470Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:13.470Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:24.300Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:24.300Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:24.301Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:24.662Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557730824,
+     exp: 1557817224,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:24.664Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:24.664Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:24.664Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:35.000Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:35.001Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:35.001Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:35.359Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557730835,
+     exp: 1557817235,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:35.360Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:35.360Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:35.360Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:48.254Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:48.255Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:48.255Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:48.615Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557730848,
+     exp: 1557817248,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:48.615Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:48.616Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:48.616Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:59.654Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:59.654Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:59.655Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:59.997Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557730859,
+     exp: 1557817259,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T07:00:59.998Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:59.998Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T07:00:59.998Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T07:01:12.513Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T07:01:12.513Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T07:01:12.514Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T07:01:12.886Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557730872,
+     exp: 1557817272,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T07:01:12.887Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T07:01:12.887Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T07:01:12.887Z' }
+{ message: false,
+  level: 'info',
+  timestamp: '2019-05-13T07:05:54.779Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:34.214Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T07:52:34.214Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:34.215Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:34.663Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557733954,
+     exp: 1557820354,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T07:52:34.664Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:34.664Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:34.664Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:54.587Z' }
+{ message: 
+   { grant_type: 'refresh_token',
+     refresh_token: 'jCr-5EbPy0GmWPXQ-gWaH2hUZ1vHetfJQuwZ3XfZTwn1X',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T07:52:54.587Z' }
+{ message: 'resource tokens refreshing',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:54.588Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:55.007Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegEsBotNew|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: 
+      [ 'https://oegesbot.auth0.com/api/v2/',
+        'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557733974,
+     exp: 1557820374,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T07:52:55.008Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:55.008Z' }
+{ message: 'inside checkResourceTokensExist',
+  level: 'info',
+  timestamp: '2019-05-13T07:52:55.008Z' }
+{ message: false,
+  level: 'info',
+  timestamp: '2019-05-13T09:11:58.191Z' }
+{ message: 'body in /token',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:28.881Z' }
+{ message: 
+   { grant_type: 'authorization_code',
+     code: 'Y9pTi5EvamIqs1Hu',
+     redirect_uri: 'https://oauth-redirect.googleusercontent.com/r/oeg-es-chatbot',
+     client_id: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     client_secret: 'dxtJROpTAIl2SI5Rm0WPD5agIdzy__yzHuVujD77a5MJ_ptDbNzGs065rWUnQUWM' },
+  level: 'info',
+  timestamp: '2019-05-13T09:12:28.881Z' }
+{ message: 'resource tokens generating',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:28.882Z' }
+{ message: 'inside create user session',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:28.883Z' }
+{ message: 'typeofobject',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.223Z' }
+{ message: 
+   { 'https://oegesbot.com/email': 'KU0136@oraclesample.com',
+     iss: 'https://oegesbot.auth0.com/',
+     sub: 'ad|OegESBotLinux|e05a9284-dbf1-457b-996e-0c85fdf09e6d',
+     aud: [ 'OegEsBot', 'https://oegesbot.auth0.com/userinfo' ],
+     iat: 1557738749,
+     exp: 1557825149,
+     azp: '2eBqWtlS99K067MPX49yn7KI8T94hoM_',
+     scope: 'openid profile email Leave.SelfService offline_access' },
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.224Z' }
+{ message: 'Employee id KU0136',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.224Z' }
+{ message: 'inside generateTokens',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.224Z' }
+{ message: '\nrefreshToken',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.224Z' }
+{ message: '\nrefreshToken',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.225Z' }
+{ message: '\nrefreshToken',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.225Z' }
+{ message: '\nrefresh token null {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g","expires_in":86400,"token_type":"Bearer"}',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.587Z' }
+{ message: '\nstatus code at refreshToken 200',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.587Z' }
+{ message: '\nrefresh token null {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g","expires_in":86400,"token_type":"Bearer"}',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.689Z' }
+{ message: '\nstatus code at refreshToken 200',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.690Z' }
+{ message: '\nrefresh token null {"access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g","expires_in":86400,"token_type":"Bearer"}',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.814Z' }
+{ message: '\nstatus code at refreshToken 200',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.814Z' }
+{ message: 
+   { ps: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g' },
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.814Z' }
+{ message: 
+   { at: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g' },
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.815Z' }
+{ message: 
+   { itsm: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g' },
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.815Z' }
+{ message: 'inside redis createUserSession',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.815Z' }
+{ message: 
+   { displayName: undefined,
+     empid: 'KU0136',
+     mail: undefined,
+     user_name: undefined,
+     tokens: 
+      { ps: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g',
+        at: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g',
+        itsm: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g' } },
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.815Z' }
+{ message: '\n redis port 5000 ',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.815Z' }
+{ message: 'userSession',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.815Z' }
+{ message: 
+   { displayName: undefined,
+     empid: 'KU0136',
+     mail: undefined,
+     user_name: undefined,
+     tokens: 
+      { ps: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g',
+        at: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g',
+        itsm: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOiJPZWdFc0JvdCIsImlhdCI6MTU1NzczODc0OSwiZXhwIjoxNTU3ODI1MTQ5LCJhenAiOiIyZUJxV3RsUzk5SzA2N01QWDQ5eW43S0k4VDk0aG9NXyIsInNjb3BlIjoiTGVhdmUuU2VsZlNlcnZpY2UifQ.hlm3_j8nULbTRThD7-ww-uReZLh-9wwrWZASBl7aFCKqx3p7ylXkcdF4hxuiXFSy4idxcaL6Rqj6GxUIPENIxp-lY_dg8KEgWAreMYTYwPKhsSax1X8cgJdxcGHnFUPubtDAJQHH3LQ6SssmLk_o-w9PxrgmvhyJAOWTifwAwUkhRHSGlgOc6S_LiwSWKn1EQeWiEHaJiF1a3tvfEdiHR7LdSY-_K9cTYjq5VNUj6UxufLtndsE_MuohWx3-99jN5oCjNQzjPP1GR-nBCKYlTrv85yDkvDvT6GaqtCHzXRpI4pGwG-iY50CV9VJ8J0F45hb4pBg_v_Lzpe2j3D8D_g' } },
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.815Z' }
+{ message: 'final response',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.816Z' }
+{ message: true,
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.816Z' }
+{ message: 'token response to google',
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.816Z' }
+{ message: 
+   { code: 200,
+     resp: 
+      { access_token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJodHRwczovL29lZ2VzYm90LmNvbS9lbWFpbCI6IktVMDEzNkBvcmFjbGVzYW1wbGUuY29tIiwiaXNzIjoiaHR0cHM6Ly9vZWdlc2JvdC5hdXRoMC5jb20vIiwic3ViIjoiYWR8T2VnRVNCb3RMaW51eHxlMDVhOTI4NC1kYmYxLTQ1N2ItOTk2ZS0wYzg1ZmRmMDllNmQiLCJhdWQiOlsiT2VnRXNCb3QiLCJodHRwczovL29lZ2VzYm90LmF1dGgwLmNvbS91c2VyaW5mbyJdLCJpYXQiOjE1NTc3Mzg3NDksImV4cCI6MTU1NzgyNTE0OSwiYXpwIjoiMmVCcVd0bFM5OUswNjdNUFg0OXluN0tJOFQ5NGhvTV8iLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIExlYXZlLlNlbGZTZXJ2aWNlIG9mZmxpbmVfYWNjZXNzIn0.ib71HLjFqqh6wDXHdQcqtoaJBCRXOVCw6rWVcgiy5w-tcsSgkpzzRnInfnx37u3fswUrocj4EJUSBekJ-7bW0XxFrgBuozJj0Px_6OxJ8QE9DbSYsj7LlmCXVRNrTu39vwBGTpAclbRRU1Yj2D4lPpIIj5S9aCZRQK4wv-KFrAZtlGm4PuycJMOf4sjjb0MUDBI3bIcawmLQnmz2542z5vaUmdSm6Q3P344TXSOshAA1aR-eA3MQFUnDvXsavhnq6nLpi3lS1ZDj39WHRuppEaXVwiLSEpYEKkjyzv3O8j05XFfIyLcRF14XZ6qkUyh_bNQr2gnw0PUqxv4yoZv3bQ',
+        refresh_token: '5tlC--0bCgiCB0gH-m7pMwSeKMACXpBJskj8agfwPitGa',
+        id_token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6Ik5EZ3dSa1kyUVRFNE5rWTVNa001TmpVeE5qUXdNRGN5TkRsR05qbEdOVUpET0RjMk5qRTNRUSJ9.eyJnaXZlbl9uYW1lIjoiTWljaGFlbCIsImZhbWlseV9uYW1lIjoiS25pZ2h0Iiwibmlja25hbWUiOiJNS05JR0hUIiwibmFtZSI6Ik1pY2hhZWwgS25pZ2h0IiwicGljdHVyZSI6Imh0dHBzOi8vcy5ncmF2YXRhci5jb20vYXZhdGFyLzIwZTZiMmJmZWJiNWNkNTQ2MTJiYjhjNWE0NzI1MDAwP3M9NDgwJnI9cGcmZD1odHRwcyUzQSUyRiUyRmNkbi5hdXRoMC5jb20lMkZhdmF0YXJzJTJGbWsucG5nIiwidXBkYXRlZF9hdCI6IjIwMTktMDUtMTNUMDk6MTI6MjAuOTI4WiIsImVtYWlsIjoiS1UwMTM2QG9yYWNsZXNhbXBsZS5jb20iLCJpc3MiOiJodHRwczovL29lZ2VzYm90LmF1dGgwLmNvbS8iLCJzdWIiOiJhZHxPZWdFU0JvdExpbnV4fGUwNWE5Mjg0LWRiZjEtNDU3Yi05OTZlLTBjODVmZGYwOWU2ZCIsImF1ZCI6IjJlQnFXdGxTOTlLMDY3TVBYNDl5bjdLSThUOTRob01fIiwiaWF0IjoxNTU3NzM4NzQ5LCJleHAiOjE1NTc3NzQ3NDl9.eB7XQ7WxQnUbEwQxO_y7FWw45QdNw6R2ptAJDfBtsHhzx_1Srad7XY_ZtiCsCor3htoxCyq_vHON87m2M5tbzQZTEGS8PGpkNC9FZ0VCfpz5a2ak2lRsIGR_ayaHWAXEi4nYP0lArG806QUC3nvcAQk_V7rrZO5-FoLZGgEeqYhzYPKScViDfnFT7_wqld16oglC7wxylviyScPzldkZ_49SHu6U9_JxlIR-GGqfxCOGSvDKEfv1dYNPF8sH-mWwsp-3GxqpgNEqm1yK-9eVrXgqtboKzoxA1G2tkfyQ67wxnDtITRrLKMR8jVB7Le5h2BqTelcOHTwWmxQSQRjGrw',
+        scope: 'openid profile email Leave.SelfService offline_access',
+        expires_in: 86400,
+        token_type: 'Bearer' } },
+  level: 'info',
+  timestamp: '2019-05-13T09:12:29.816Z' }

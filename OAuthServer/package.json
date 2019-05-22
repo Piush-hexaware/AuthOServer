@@ -1,0 +1,39 @@
+{
+  "name": "OEGESBOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^1.7.0",
+    "api-ai-recognizer": "^1.1.1",
+    "basic-auth": "^2.0.0",
+    "body-parser": "^1.18.2",
+    "botbuilder": "^3.15.0",
+    "client-certificate-auth": "^0.3.0",
+    "ejs": "^2.5.8",
+    "express": "^4.16.2",
+    "express-redirect": "^1.2.2",
+    "express-session": "^1.15.6",
+    "forever": "^0.15.3",
+    "jwt-decode": "^2.2.0",
+    "mobile-detect": "^1.4.3",
+    "node-cron": "^2.0.1",
+    "nodemailer": "^4.6.4",
+    "q": "^1.5.1",
+    "redis": "^2.8.0",
+    "redis-server": "^1.2.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "sendotp": "^1.2.8",
+    "uuid": "^3.2.1",
+    "winston": "^3.1.0",
+    "winston-daily-rotate-file": "^3.5.1"
+  }
+}

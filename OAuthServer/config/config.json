@@ -1,0 +1,19 @@
+{	"domain":"http://ec2-54-145-53-234.compute-1.amazonaws.com:3000",
+	"authorizeEndpoint":"https://login.microsoftonline.com/hexawareonline.onmicrosoft.com/oauth2/v2.0/authorize",	
+	"tokenEndpoint":"https://login.microsoftonline.com/hexawareonline.onmicrosoft.com/oauth2/v2.0/token",		
+	"masterScope":"fc458f80-5b1e-4674-9f87-a605c5b49720/.default",
+	"grant_type":"authorization_code",
+	"emailClaim":"email",
+	"userSesControl":"redis",
+	"scope":"openid profile email offline_access",
+	"resourceScope":{
+		"coco":{
+		"ps":"api://2b75e93a-75eb-4b24-948a-83569d84d3b7/Leave.SelfService",
+		"cal":"https://graph.microsoft.com/.default",
+		"at":"api://2b75e93a-75eb-4b24-948a-83569d84d3b7/Leave.SelfService",
+		"cab":"api://2b75e93a-75eb-4b24-948a-83569d84d3b7/Leave.SelfService",
+		"itsm":"api://f9cfab2f-66ed-46c9-8e02-511eb5098a5b/Genie+"
+		}
+		
+	}
+}
